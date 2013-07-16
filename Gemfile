@@ -34,7 +34,6 @@ group :development, :test do
   gem 'factory_girl_rails'
   gem 'cane'
   gem 'reek'
-  gem 'debugger'
   gem 'capybara'
   gem 'simplecov'
   gem 'quiet_assets'
