@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-ruby '1.9.3'
+ruby '2.0.0'
 
 gem 'rails', '3.2.13'
 gem 'puma', '2.0.1'
@@ -34,7 +34,6 @@ group :development, :test do
   gem 'factory_girl_rails'
   gem 'cane'
   gem 'reek'
-  gem 'debugger'
   gem 'capybara'
   gem 'simplecov'
   gem 'quiet_assets'
